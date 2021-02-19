@@ -1,5 +1,7 @@
 # Spring Boot AMQP messaging example with RabbitMQ
 
+https://thepracticaldeveloper.com/produce-and-consume-json-messages-with-spring-boot-amqp/
+
 This is a simple Spring Boot app that shows how to easily configure RabbitMQ with AMQP for producing and consuming messages
 in default format (java serialized) and JSON.
 
